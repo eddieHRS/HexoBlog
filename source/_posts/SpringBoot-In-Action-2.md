@@ -1,5 +1,5 @@
 ---
-title: SpringBoot In Action 2
+title: SpringBoot In Action[2] - 配置项
 date: 2022-09-13 22:42:31
 tags: ["SpringBoot In Action"]
 categories: ["SpringBoot"]
